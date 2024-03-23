@@ -3,11 +3,8 @@
 # Setare Tohidi
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsetare-tohidi%2Fsetare-tohidi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tohidi-setare/)
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:setare.tohidi@uleth.ca)
-
 [![Github](https://img.shields.io/github/followers/setare-tohidi?label=Follow&style=social)](https://github.com/setare-tohidi)
 
 - 💻 MS.c in Neuroscience
