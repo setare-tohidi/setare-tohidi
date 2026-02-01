@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/setare-tohidi?label=Follow&style=social)](https://github.com/setare-tohidi)
 
 - 💻 MS.c in Neuroscience
-- 📫 How to reach me: setare.tohidi@uleth.ca
+- 📫 How to reach me: setare.tohidi@gmail.com
 
 
 ### 🖥 Skills
